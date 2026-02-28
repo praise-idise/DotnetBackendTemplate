@@ -8,7 +8,7 @@
     "ASP.NET Core"
   ],
   "identity": "IdisePraise.BackendTemplate.CleanArchitecture",
-  "name": "Clean Architecture Backend Template by Idise Praise",
+  "name": "Dotnet 10 Backend Template by Idise Praise",
   "shortName": "cleanapi",
   "tags": {
     "language": "C#",

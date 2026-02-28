@@ -3,11 +3,11 @@
     <PackageType>Template</PackageType>
     <PackageVersion>1.0.0</PackageVersion>
     <PackageId>IdisePraise.BackendTemplate</PackageId>
-    <Title>Clean Architecture Backend Template</Title>
+    <Title>Dotnet 10 Backend Template</Title>
     <Authors>Idise Praise</Authors>
     <Description>Production-ready .NET 10 backend template with clean architecture, JWT auth, Redis, Stripe, Hangfire, and more</Description>
     <PackageTags>dotnet-new;templates;aspnetcore;cleanarchitecture;backend;api;webapi;dotnet10</PackageTags>
-    <PackageProjectUrl>https://github.com/yourusername/your-template</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/praise-idise/DotnetBackendTemplate</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <TargetFramework>net10.0</TargetFramework>
     <IncludeContentInPack>true</IncludeContentInPack>

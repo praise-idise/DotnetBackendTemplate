@@ -1,4 +1,4 @@
-# Backend Template
+# Dotnet Backend Template
 
 A comprehensive .NET 10 backend template with clean architecture, ready-to-use integrations, and production-ready patterns.
 
@@ -90,8 +90,8 @@ BackendTemplate/
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
-cd BackendTemplate
+git clone https://github.com/praise-idise/DotnetBackendTemplate.git
+cd DotnetBackendTemplate
 
 # Restore packages
 dotnet restore
