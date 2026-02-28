@@ -24,5 +24,3 @@ Logs/
 # OS files
 .DS_Store
 Thumbs.db
-/BackendTemplate/appsettings.json
-/BackendTemplate/appsettings.Development.json
