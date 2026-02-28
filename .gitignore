@@ -1,0 +1,26 @@
+# Template-specific files (not for public repo)
+TEMPLATE_INSTRUCTIONS.md
+
+# Build results
+[Bb]in/
+[Oo]bj/
+nupkg/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific files
+*.rsuser
+*.userprefs
+
+# Logs
+Logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

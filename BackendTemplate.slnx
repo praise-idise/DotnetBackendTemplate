@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Project Path="BackendTemplate.Application/BackendTemplate.Application.csproj" />
+  <Project Path="BackendTemplate.Domain/BackendTemplate.Domain.csproj" />
+  <Project Path="BackendTemplate.Infrastructure/BackendTemplate.Infrastructure.csproj" />
+  <Project Path="BackendTemplate.Shared/BackendTemplate.Shared.csproj" />
+  <Project Path="BackendTemplate/BackendTemplate.API.csproj" />
+</Solution>

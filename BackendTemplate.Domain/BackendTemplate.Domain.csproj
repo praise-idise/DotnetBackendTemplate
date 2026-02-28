@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Stores" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BackendTemplate.Shared\BackendTemplate.Shared.csproj" />
+  </ItemGroup>
+</Project>

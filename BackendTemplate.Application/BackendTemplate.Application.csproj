@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\BackendTemplate.Domain\BackendTemplate.Domain.csproj" />
+    <ProjectReference Include="..\BackendTemplate.Shared\BackendTemplate.Shared.csproj" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App"></FrameworkReference>
+	</ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" />
+    <PackageReference Include="Mapster" />
+    <PackageReference Include="Mapster.DependencyInjection" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" />
+		<PackageReference Include="Hangfire.AspNetCore" />
+  </ItemGroup>
+
+</Project>
