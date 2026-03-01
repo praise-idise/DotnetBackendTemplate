@@ -1,5 +1,6 @@
 # Template-specific files (not for public repo)
 TEMPLATE_INSTRUCTIONS.md
+NUGET_README.md
 
 # Build results
 [Bb]in/

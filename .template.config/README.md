@@ -11,7 +11,7 @@ dotnet new install ./
 
 ### Install from NuGet (after publishing)
 ```bash
-dotnet new install IdisePraise.BackendTemplate
+dotnet new install IdisePraise.Dotnet10BackendTemplate
 ```
 
 ## Usage
@@ -66,5 +66,6 @@ See `README.md` in the generated project for complete documentation.
 ## Uninstall
 
 ```bash
-dotnet new uninstall IdisePraise.BackendTemplate
+dotnet new uninstall IdisePraise.Dotnet10BackendTemplate
 ```
+
